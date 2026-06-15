@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-reloj-que-se-detuvo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for El reloj que se detuvo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-reloj-que-se-detuvo/) |
+| **Get License** | [Get a Licensing Quote for El reloj que se detuvo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-reloj-que-se-detuvo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, el reloj se detuvo cuando entraste al club,
+> Con ese flow de diabla que apaga la luz,
+> Me tienes adicto, no lo puedes negar,
+> Esta noche en la calle nos vamo' a escapar.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
