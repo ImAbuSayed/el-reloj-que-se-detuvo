@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-reloj-que-se-detuvo/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for El reloj que se detuvo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-reloj-que-se-detuvo/) |
+| **Get License** | [Get License For El reloj que se detuvo](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-reloj-que-se-detuvo/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `64be6d28c56f2cbbf0c6b8e0e7fd2cad79b9f6bcf091913e02ea4477fd8353f3` |
 | **Timestamp** | June 15, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

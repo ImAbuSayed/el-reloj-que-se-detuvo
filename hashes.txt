@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El reloj que se detuvo
+
+This log tracks the cryptographic history and versioning for the song **El reloj que se detuvo** (el-reloj-que-se-detuvo).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T11:35:03.021333 | `v1` | `64be6d28c56f2cbbf0c6b8e0e7fd2cad79b9f6bcf091913e02ea4477fd8353f3` | `fd97b72f202bff8047b29f21c74198415cfbd9e9dc084beada3c3d0fbf7103ba` | `2026-06-15_el-reloj-que-se-detuvo-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
